@@ -1,3 +1,9 @@
 body{
 	background-color:#7baaf7;
 }
+h1{
+	width:900px;
+	margin:0 auto;
+	background-color:red;
+	text-decoration:none;
+}
