@@ -1,6 +1,9 @@
 body{
 	background-color:#D3D3D3;
 }
-li{
+a{
 	text-decoration:none
+}
+h1{
+	text-align:center;
 }
