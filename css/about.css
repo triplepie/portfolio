@@ -3,6 +3,9 @@ body{
 }
 a{
 	text-decoration:none;
+	display: block;
+	text-align: left;
+	font-size:25px;
 }
 h1{
 	text-align:center;
@@ -13,4 +16,7 @@ ul{
 img{
 	width:300px;
 	height:300px;
+}
+h2{
+	text-align:center;
 }
