@@ -1,0 +1,31 @@
+body{
+	background-color:purple;
+}
+a{
+	color:white;
+	text-decoration:none;
+}
+h1{
+	width:960px;
+	margin:0 auto;
+	color:white;
+}
+h5{
+	width:960px;
+	margin:0 auto;
+	color:white;
+}
+#SideBar{
+	float:left;
+}
+#Mainbar{
+	float:right;
+}
+#facebook{
+	height:300px;
+	width:300px;
+}
+#twitter{
+	height:300px;
+	width:300px;
+}

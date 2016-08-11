@@ -1,0 +1,15 @@
+body{
+	background-color:green;
+}
+#Sidebar{
+	width:500px;
+	margin:0 auto;
+	float:left;
+}
+#Mainbar{
+
+	width:500px;
+	margin:0 auto;
+	float:right;
+}
+m
